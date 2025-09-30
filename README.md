@@ -52,6 +52,6 @@ El equipo que participará en este sprint está conformado por los siguientes ro
 
 ## Calendario y Reuniones
 
-- **Daily Stand-up:** Reunión diaria de 10 minutos para sincronización (hora: 9 a.m)
+- **Daily Stand-up:** Reunión diaria de 15 minutos para sincronización (hora: 9 a.m)
 - **Sprint Review:** Presentación de resultados al final del sprint
 - **Sprint Retrospective:** Evaluación del sprint para mejora continua
